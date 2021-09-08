@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "Nodejs-hw-01-CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affinityjk/nodejs-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Julia Kutsyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/affinityjk/nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/affinityjk/nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
+}
